@@ -1,0 +1,21 @@
+{
+    "name": "dkzr/really-simple-ssl-mu-domain-mapping",
+    "description": "Really Simple SSL & WordPress MU Domain Mapping: don't redirect to SSL for non-default domains",
+    "keywords": [ "WordPress" ],
+    "homepage": "https://dkzr.nl/",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Joost de Keijzer",
+            "email": "j@dkzr.nl",
+            "homepage": "https://dkzr.nl"
+        }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    },
+    "extra": {
+        "installer-name": "really-simple-ssl-mu-domain-mapping"
+    }
+}
